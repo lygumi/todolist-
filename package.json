@@ -1,15 +1,19 @@
 {
-  "name": "app.js",
+  "name": "todolist",
   "version": "1.0.0",
-  "description": "",
+  "description": "My 1st Web app",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lygumi/todolist-.git"
+  },
+  "author": "K.Tsugawa",
   "license": "ISC",
-  "dependencies": {
-    "ejs": "^3.1.5",
-    "express": "^4.17.1"
-  }
+  "bugs": {
+    "url": "https://github.com/lygumi/todolist-/issues"
+  },
+  "homepage": "https://github.com/lygumi/todolist-#readme"
 }
